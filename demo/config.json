@@ -2,30 +2,38 @@
   "projectName": "demo",
   "displayName": {
     "en": "Demo Project",
-    "ja": "Çâ×í¸§¯È"
+    "ja": "ã§ã‚‚ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ"
   },
   "description": {
     "en": "A demo project for testing purposes",
-    "ja": "Æ¹È(nÇâ×í¸§¯È"
+    "ja": "ãƒ†ã‚¹ãƒˆç›®çš„ã®ãƒ‡ãƒ¢ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ"
   },
-  "supportedLangs": ["en", "ja"],
+  "supportedLangs": [
+    "en",
+    "ja"
+  ],
   "defaultLang": "en",
-  "versions": ["v1"],
+  "versions": [
+    "v1"
+  ],
   "latestVersion": "v1",
   "categories": {
     "guide": {
       "en": "Guide",
-      "ja": "¬¤É"
+      "ja": "ã‚¬ã‚¤ãƒ‰"
     }
   },
   "icon": "file-text",
-  "tags": ["demo", "testing"],
+  "tags": [
+    "demo",
+    "testing"
+  ],
   "baseUrl": "/docs/demo",
   "repository": "https://github.com/libx-dev/libx-docs",
-  "lastUpdated": "2025-09-03T15:00:00.000Z",
+  "lastUpdated": "2025-09-03T09:56:39.525Z",
   "syncMetadata": {
-    "lastSyncCommit": null,
-    "lastSyncTime": null,
-    "contentHash": null
+    "lastSyncCommit": "3526c5b1a166e01b4c87e7ce2e1f6f1c53655c58",
+    "lastSyncTime": "2025-09-03T09:56:39.545Z",
+    "contentHash": "df9277e32fbfae1bf5ea8b8e1b1d593c"
   }
 }

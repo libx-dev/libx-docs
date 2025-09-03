@@ -8,9 +8,15 @@
     "en": "A comprehensive sample documentation showcasing multi-language and multi-version support.",
     "ja": "多言語・多バージョン対応を実演する包括的なサンプルドキュメントです。"
   },
-  "supportedLangs": ["en", "ja"],
+  "supportedLangs": [
+    "en",
+    "ja"
+  ],
   "defaultLang": "en",
-  "versions": ["v1", "v2"],
+  "versions": [
+    "v1",
+    "v2"
+  ],
   "latestVersion": "v2",
   "categories": {
     "guide": {
@@ -39,13 +45,17 @@
     }
   },
   "icon": "file-text",
-  "tags": ["sample", "documentation", "example"],
+  "tags": [
+    "sample",
+    "documentation",
+    "example"
+  ],
   "baseUrl": "/docs/sample-docs",
   "repository": "https://github.com/libx-dev/libx-docs",
-  "lastUpdated": "2025-09-03T15:00:00.000Z",
+  "lastUpdated": "2025-09-03T09:53:33.607Z",
   "syncMetadata": {
-    "lastSyncCommit": null,
-    "lastSyncTime": null,
-    "contentHash": null
+    "lastSyncCommit": "3526c5b1a166e01b4c87e7ce2e1f6f1c53655c58",
+    "lastSyncTime": "2025-09-03T09:53:33.629Z",
+    "contentHash": "065504b058c2f0eb8a4a05c2d03fa13c"
   }
 }
