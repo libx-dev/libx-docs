@@ -1,0 +1,31 @@
+{
+  "projectName": "demo",
+  "displayName": {
+    "en": "Demo Project",
+    "ja": "Çâ×í¸§¯È"
+  },
+  "description": {
+    "en": "A demo project for testing purposes",
+    "ja": "Æ¹È(nÇâ×í¸§¯È"
+  },
+  "supportedLangs": ["en", "ja"],
+  "defaultLang": "en",
+  "versions": ["v1"],
+  "latestVersion": "v1",
+  "categories": {
+    "guide": {
+      "en": "Guide",
+      "ja": "¬¤É"
+    }
+  },
+  "icon": "file-text",
+  "tags": ["demo", "testing"],
+  "baseUrl": "/docs/demo",
+  "repository": "https://github.com/libx-dev/libx-docs",
+  "lastUpdated": "2025-09-03T15:00:00.000Z",
+  "syncMetadata": {
+    "lastSyncCommit": null,
+    "lastSyncTime": null,
+    "contentHash": null
+  }
+}

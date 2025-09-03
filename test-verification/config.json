@@ -1,0 +1,44 @@
+{
+  "projectName": "test-verification",
+  "displayName": {
+    "en": "Test Verification",
+    "ja": "検証テスト",
+    "ko": "검증 테스트"
+  },
+  "description": {
+    "en": "Documentation for Test Verification",
+    "ja": "検証テストのドキュメントです",
+    "ko": "검증 테스트 문서입니다"
+  },
+  "supportedLangs": ["en", "ja", "ko"],
+  "defaultLang": "en",
+  "versions": ["v1", "v2"],
+  "latestVersion": "v2",
+  "categories": {
+    "guide": {
+      "en": "Guide",
+      "ja": "ガイド",
+      "ko": "가이드"
+    },
+    "troubleshooting": {
+      "en": "Troubleshooting",
+      "ja": "トラブルシューティング",
+      "ko": "문제 해결"
+    },
+    "api-reference": {
+      "en": "API Reference",
+      "ja": "APIリファレンス",
+      "ko": "API 참조"
+    }
+  },
+  "icon": "file-text",
+  "tags": ["documentation"],
+  "baseUrl": "/docs/test-verification",
+  "repository": "https://github.com/libx-dev/libx-docs",
+  "lastUpdated": "2025-09-03T15:00:00.000Z",
+  "syncMetadata": {
+    "lastSyncCommit": null,
+    "lastSyncTime": null,
+    "contentHash": null
+  }
+}

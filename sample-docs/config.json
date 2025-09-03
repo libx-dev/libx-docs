@@ -1,0 +1,51 @@
+{
+  "projectName": "sample-docs",
+  "displayName": {
+    "en": "Sample Documentation",
+    "ja": "サンプルドキュメント"
+  },
+  "description": {
+    "en": "A comprehensive sample documentation showcasing multi-language and multi-version support.",
+    "ja": "多言語・多バージョン対応を実演する包括的なサンプルドキュメントです。"
+  },
+  "supportedLangs": ["en", "ja"],
+  "defaultLang": "en",
+  "versions": ["v1", "v2"],
+  "latestVersion": "v2",
+  "categories": {
+    "guide": {
+      "en": "Guide",
+      "ja": "ガイド"
+    },
+    "components": {
+      "en": "Components",
+      "ja": "コンポーネント"
+    },
+    "advanced": {
+      "en": "Advanced",
+      "ja": "高度な設定"
+    },
+    "reference": {
+      "en": "Reference",
+      "ja": "リファレンス"
+    },
+    "api": {
+      "en": "API",
+      "ja": "API"
+    },
+    "examples": {
+      "en": "Examples",
+      "ja": "サンプル"
+    }
+  },
+  "icon": "file-text",
+  "tags": ["sample", "documentation", "example"],
+  "baseUrl": "/docs/sample-docs",
+  "repository": "https://github.com/libx-dev/libx-docs",
+  "lastUpdated": "2025-09-03T15:00:00.000Z",
+  "syncMetadata": {
+    "lastSyncCommit": null,
+    "lastSyncTime": null,
+    "contentHash": null
+  }
+}
